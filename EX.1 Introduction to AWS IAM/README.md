@@ -60,12 +60,30 @@ The objective of this lab is to understand how AWS Identity and Access Managemen
 - Gained practical experience implementing role-based access control.  
 - Verified permission enforcement through real-time service testing.  
 
+## Output
+
+<img width="959" height="539" alt="Screenshot 2026-07-27 140133" src="https://github.com/user-attachments/assets/7cdc536b-1e5b-42fd-be67-4ec3448077f5" />
+
+
+<img width="959" height="539" alt="Screenshot 2026-07-27 140236" src="https://github.com/user-attachments/assets/2d175052-6a4e-42c6-bcde-77bcfd725d70" />
+
+
+<img width="959" height="532" alt="Screenshot 2026-07-27 140922" src="https://github.com/user-attachments/assets/bea3a875-2ee9-4cd9-bf10-4baa30d2fb02" />
+
+
+<img width="959" height="539" alt="Screenshot 2026-07-27 141038" src="https://github.com/user-attachments/assets/98f89a95-4ac5-4d89-9f3e-9b975787b59a" />
+
+
+<img width="959" height="539" alt="Screenshot 2026-07-27 141333" src="https://github.com/user-attachments/assets/99e3d3cb-77ba-4e44-9496-b0812dbedbc4" />
+
+
+
 
 ## Conclusion
 This lab provided hands-on experience with AWS IAM by demonstrating how organizations manage secure access to cloud resources. Assigning users to groups with predefined policies simplified permission management and ensured role-based access control across AWS services.
 
 
 ## Author
-**Name:** Your Name and (Reg No)
-**Course:** Introduction to Cloud Computing  
+## Name : VIMALRAJ B
+## Register Number : 212224230304
 
