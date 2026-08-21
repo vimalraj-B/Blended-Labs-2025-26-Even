@@ -1,19 +1,19 @@
 # Lab 3 – Introduction to Amazon Elastic Compute Cloud (EC2)
 
-## Author
-## Name: VIMALRAJ B
-## Register Number: 212224230304
-## Date of Submission: 21/08/26
+### Author
+### Name: VIMALRAJ B
+### Register Number: 212224230304
+### Date of Submission: 21/08/26
 
 ---
 
-## Objective
+### Objective
 
 The objective of this experiment is to understand the fundamentals of Amazon Elastic Compute Cloud (EC2). This lab focuses on launching and managing a virtual server, understanding instance types and AMIs, connecting to an EC2 instance, monitoring its status, and performing basic instance operations such as start, stop, and terminate.
 
 ---
 
-## Prerequisites
+### Prerequisites
 
 * Basic understanding of cloud computing concepts
 * AWS account or AWS Academy Lab access
@@ -22,7 +22,7 @@ The objective of this experiment is to understand the fundamentals of Amazon Ela
 
 ---
 
-## Tools Used
+### Tools Used
 
 * AWS Management Console
 * Amazon EC2
@@ -32,7 +32,7 @@ The objective of this experiment is to understand the fundamentals of Amazon Ela
 
 ---
 
-## Tasks Performed
+### Tasks Performed
 
 ### Task 1: Explore Amazon EC2 Dashboard
 
@@ -93,7 +93,7 @@ Terminate the EC2 instance after completing the experiment to avoid unnecessary 
 
 ---
 
-## Workflow (Student Explanation)
+### Workflow (Student Explanation)
 
 First, I logged in to the AWS Management Console using my AWS account.
 
@@ -147,7 +147,7 @@ After completing the experiment, I selected the instance and clicked on “Termi
 I confirmed the termination and observed that the instance state changed to “Terminated.”
 ---
 
-## Output Screenshots (Attach 3)
+### Output Screenshots (Attach 3)
 
 ### Screenshot 1: EC2 Dashboard / Instance List
 
@@ -173,6 +173,6 @@ I confirmed the termination and observed that the instance state changed to “T
 
 
 
-## Result 
+### Result 
 
 This experiment provided hands-on experience with Amazon EC2 by demonstrating how to launch, connect, manage, and monitor a virtual server in AWS. It helped in understanding the concept of Infrastructure as a Service (IaaS) and how compute resources can be provisioned and controlled on demand in the cloud.
